@@ -9,7 +9,7 @@
 </p>
 
  <h4>Changelog</h4>
-<p>First Version with 100 pokemon </p>
+<p>Dec 22 - First Version with 100 pokemon </p>
  
 </body>
 </html>
